@@ -8,7 +8,6 @@ Projeto prático em **linguagem C** para cadastrar e organizar as perguntas de u
 
 ## 👥 Identificação
 
-- **Turma:** _preencher_
 - **Integrantes:**
   1. Nayra Costa
   2. Dennis Oliveira
