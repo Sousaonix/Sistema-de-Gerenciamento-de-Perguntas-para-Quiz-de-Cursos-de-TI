@@ -1,0 +1,50 @@
+1;Voce gosta de resolver problemas de logica?;Raciocinio;CC;SIM
+2;Voce se interessa por criar aplicativos?;Desenvolvimento;ADS;NAO
+3;Voce gosta de planejar e organizar sistemas?;Inteligencia Artificial;ES;SIM
+4;Voce gosta de entender como os computadores funcionam?;Banco de Dados;CC;SIM
+5;Voce gosta de programar?;Raciocinio;ADS;NAO
+6;Voce gosta de trabalhar com banco de dados?;Desenvolvimento;ADS;NAO
+7;Voce se interessa por redes de computadores?;Inteligencia Artificial;CC;SIM
+8;Voce gosta de analisar problemas antes de criar uma solucao?;Banco de Dados;ES;NAO
+9;Voce gosta de desenvolver sistemas para empresas?;Raciocinio;ES;SIM
+10;Voce gosta de aprender novas linguagens de programacao?;Desenvolvimento;ADS;SIM
+11;Voce tem interesse em inteligencia artificial?;Inteligencia Artificial;CC;NAO
+12;Voce gosta de trabalhar com tecnologia no dia a dia?;Banco de Dados;ADS;SIM
+13;Voce gosta de criar solucoes usando computadores?;Raciocinio;CC;NAO
+14;Voce gosta de organizar projetos de tecnologia?;Desenvolvimento;ES;NAO
+15;Voce se interessa por seguranca de sistemas?;Inteligencia Artificial;CC;SIM
+16;Voce gosta de testar se um sistema esta funcionando corretamente?;Banco de Dados;ES;SIM
+17;Voce gosta de transformar uma ideia em um programa?;Raciocinio;ADS;NAO
+18;Voce gosta de trabalhar com informacoes e dados?;Desenvolvimento;ADS;SIM
+19;Voce gosta de estudar novas tecnologias?;Inteligencia Artificial;CC;NAO
+20;Voce gosta de participar da criacao de sistemas?;Banco de Dados;ES;SIM
+21;Voce gosta de descobrir como uma tecnologia funciona?;Raciocinio;CC;NAO
+22;Voce gosta de criar solucoes para problemas do cotidiano?;Desenvolvimento;ADS;NAO
+23;Voce gosta de trabalhar em equipe em projetos de tecnologia?;Inteligencia Artificial;ES;SIM
+24;Voce tem curiosidade sobre inteligencia artificial?;Banco de Dados;CC;SIM
+25;Voce gosta de organizar informacoes em tabelas e sistemas?;Raciocinio;ADS;NAO
+26;Voce gosta de pensar em como melhorar um sistema?;Desenvolvimento;ES;SIM
+27;Voce se interessa por desenvolvimento de sites?;Inteligencia Artificial;ADS;SIM
+28;Voce gostaria de aprender sobre sistemas operacionais?;Banco de Dados;CC;NAO
+29;Voce gosta de encontrar erros em programas?;Raciocinio;ADS;NAO
+30;Voce gosta de pensar em solucoes antes de comecar um projeto?;Desenvolvimento;ES;SIM
+31;Voce se interessa por hardware e componentes de computador?;Inteligencia Artificial;CC;SIM
+32;Voce gosta de trabalhar com diferentes tipos de dados?;Banco de Dados;ADS;NAO
+33;Voce gosta de acompanhar as etapas de um projeto?;Raciocinio;ES;SIM
+34;Voce gostaria de aprender mais sobre computacao?;Desenvolvimento;CC;NAO
+35;Voce gosta de criar programas para automatizar tarefas?;Inteligencia Artificial;ADS;NAO
+36;Voce gosta de documentar como um sistema funciona?;Banco de Dados;ES;SIM
+37;Voce se interessa por programacao de computadores?;Raciocinio;CC;NAO
+38;Voce gosta de resolver desafios usando tecnologia?;Desenvolvimento;ADS;SIM
+39;Voce gosta de pensar na experiencia de quem vai usar um sistema?;Inteligencia Artificial;ES;SIM
+40;Voce gostaria de trabalhar com desenvolvimento de software?;Banco de Dados;ADS;NAO
+41;Voce gosta de pesquisar como novas tecnologias podem ser usadas?;Raciocinio;CC;NAO
+42;Voce gostaria de aprender a desenvolver jogos?;Desenvolvimento;ADS;SIM
+43;Voce gosta de organizar tarefas e prazos de um projeto?;Inteligencia Artificial;ES;SIM
+44;Voce se interessa por como os dados sao protegidos na internet?;Banco de Dados;CC;NAO
+45;Voce gosta de criar solucoes simples para facilitar tarefas?;Raciocinio;ADS;SIM
+46;Voce gosta de conversar com pessoas para entender o que elas precisam em um sistema?;Desenvolvimento;ES;NAO
+47;Voce tem interesse em aprender como funciona uma rede de computadores?;Inteligencia Artificial;CC;NAO
+48;Voce gostaria de criar um site do zero?;Banco de Dados;ADS;SIM
+49;Voce gosta de organizar as etapas necessarias para desenvolver um sistema?;Raciocinio;ES;NAO
+50;Voce gostaria de aprender mais sobre inteligencia artificial e suas aplicacoes?;Desenvolvimento;CC;SIM
