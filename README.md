@@ -16,7 +16,7 @@ Projeto prático em **linguagem C** para cadastrar e organizar as perguntas de u
   5. Felipe Gustavo
   6. Andrey Heneique
   7. Matheus Lopes
-- **Vídeo de apresentação:** _colar aqui o link do YouTube_
+- **Vídeo de apresentação:** https://youtu.be/BO6vNiWe-rU?si=Nqe3PDVuD0GbHtX4
 
 ---
 
